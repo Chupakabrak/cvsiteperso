@@ -48,7 +48,7 @@ body, html{
 /* Link style
 ---------------------------------------------------------*/
 a {
-    color: #71c732;
+    color: #13a83a;
 }
 a,
 a > * {
@@ -146,7 +146,7 @@ h6 {
 }
 
 .form-control:focus {
-    border-color: #71c732;
+    border-color: #13a83a;
     box-shadow: none;
 }
 
@@ -172,7 +172,7 @@ h6 {
 
 /*btn-primary*/
 .btn-primary{
-    background-color:#71c732;
+    background-color:#13a83a;
     border-color: rgba(51, 51, 51, 0.15);
 }
 
@@ -215,7 +215,7 @@ h6 {
 .btn-default.focus, 
 .btn-default:active, 
 .btn-default.active{
-    color: #71c732;
+    color: #13a83a;
     background-color: #fff;
     border-color: #fff;
 }
@@ -261,7 +261,7 @@ ul.list-check li{
 ul.list-check li::before {
     content: "\f00c";
     font-family: fontawesome;
-    color: #71c732;
+    color: #13a83a;
     margin-right: 10px;
 }
 
@@ -345,7 +345,7 @@ ul.list-check li::before {
 	color: #52b3d9;
 }
 .intro h1 span{
-	color: #71c732;
+	color: #13a83a;
 }
 .intro p{
 	color: #f7f7f7;
@@ -405,7 +405,7 @@ SOCIAL ICON
 }
 
 .social-icons a i:hover::after{
-    background: #71c732;
+    background: #13a83a;
     border: 1px solid transparent;
     z-index: 0;
 }
@@ -456,7 +456,7 @@ SOCIAL ICON
     visibility: hidden;
     opacity:0;
     border: 1px solid #ddd;
-    border-top: 2px solid #71c732;
+    border-top: 2px solid #13a83a;
     border-radius: 0;
     border-bottom: 3px double #ddd;
     background-color: #FFFFFF;
@@ -507,7 +507,7 @@ SOCIAL ICON
 .navbar-custom .navbar-nav > li.active > a {
     background: none;
     outline: 0;
-    color: #71c732;
+    color: #13a83a;
 }
 
 .navbar-custom .navbar-brand {
@@ -857,7 +857,7 @@ Resume Timeline
 }
 
 .timeline>li .timeline-content:hover {
-    background: #71c732;
+    background: #106e29;
     color: #fff;
 }
 
@@ -878,7 +878,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li .timeline-panel:hover::before {
-    border-left: 12px solid #71c732;
+    border-left: 12px solid #13a83a;
 }
 
 .timeline>li.timeline-inverted .timeline-panel::before {
@@ -890,7 +890,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li.timeline-inverted .timeline-panel:hover::before {
-    border-right: 12px solid #71c732;
+    border-right: 12px solid #13a83a;
     border-left: 0;
 }
 
@@ -912,7 +912,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li .timeline-panel:hover::after {
-    border-left: 12px solid #71c732;
+    border-left: 12px solid #13a83a;
 }
 
 .timeline>li.timeline-inverted .timeline-panel::after {
@@ -925,7 +925,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li.timeline-inverted .timeline-panel:hover::after {
-    border-right: 12px solid #71c732;
+    border-right: 12px solid #13a83a;
     border-left: 0;
 }
 
@@ -984,7 +984,7 @@ Resume Timeline
 }
 
 .progress-bar {
-    background-color: #71c732;
+    background-color: #13a83a;
 }
 .progress-bar span{
     position: absolute;
@@ -1095,7 +1095,7 @@ Resume Timeline
 
 
 #filter li a {
-    color: #71c732;
+    color: #13a83a;
     display: block;
     text-transform: uppercase;
     padding: 0 15px;
@@ -1105,7 +1105,7 @@ Resume Timeline
 #filter li a.active,
 #filter li a:hover {
     position: relative;
-    background: #71c732;
+    background: #13a83a;
     color: #fff;
     border-bottom: 3px solid rgba(0, 0, 0, 0.15);
 }
@@ -1162,7 +1162,7 @@ Resume Timeline
 
 .links a i{
     position: relative;
-    color: #71c732;
+    color: #13a83a;
     font-size: 16px;
     margin: 0 13px;
     z-index: 100;
@@ -1177,7 +1177,7 @@ Resume Timeline
     top: -7px;
     width: 30px;
     height: 30px;
-    border: 1px solid #71c732;
+    border: 1px solid #13a83a;
     z-index: -1;
     border-radius: 3px;
     -webkit-transform: rotate(45deg);
@@ -1187,14 +1187,14 @@ Resume Timeline
             transform: rotate(45deg);
 }
 .links a:hover i::after {
-    background-color: #71c732;
+    background-color: #13a83a;
 }
 
 .portfolio-info {
     position: absolute;
     bottom: -100%;
     left: 0;
-    background-color: #71c732;
+    background-color: #13a83a;
     color: #fff;
     height: 45px;
     width: 100%;
@@ -1304,7 +1304,7 @@ Resume Timeline
     top: -10px;
     width: 40px;
     height: 40px;
-    background-color: #71c732;
+    background-color: #13a83a;
     z-index: -1;
     border-radius: 3px;
     -webkit-transform: rotate(45deg);
@@ -1356,7 +1356,7 @@ Resume Timeline
     color: #282828;
 }
 .entry-title a:hover{
-    color: #71c732;
+    color: #13a83a;
 }
 .entry-meta {
     color: #afafaf;
@@ -1373,7 +1373,7 @@ Resume Timeline
     font-weight: 400;
 }
 .entry-meta ul li a:hover{
-    color: #71c732;
+    color: #13a83a;
 }
 
 .blog-more {
@@ -1515,7 +1515,7 @@ Icon for all respective meta
 }
 
 .scroll-up a {
-	background-color: #71c732;
+	background-color: #13a83a;
 	display: block;
 	width: 28px;
 	height: 28px;
@@ -1775,7 +1775,7 @@ Icon for all respective meta
 }
 
 .personal-info h1 span{
-    color:#71c732;
+    color:#13a83a;
 }
 .personal-info p {
     margin-bottom: 40px;
